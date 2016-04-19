@@ -1,1 +1,1 @@
-# Enkaufsliste
+# Einkaufsliste
