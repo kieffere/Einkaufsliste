@@ -28,5 +28,5 @@ int main()
 	cout << "I am trying this out" << endl;
 	return 0;
 }
-
-![](http://previews.123rf.com/images/mayalain/mayalain1204/mayalain120400018/13174367-A-duck-is-listening-to-music-with-headphones-Stock-Photo.jpg)
+```
+![pics](http://previews.123rf.com/images/mayalain/mayalain1204/mayalain120400018/13174367-A-duck-is-listening-to-music-with-headphones-Stock-Photo.jpg)
