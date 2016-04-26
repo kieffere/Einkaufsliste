@@ -29,4 +29,4 @@ int main()
 	return 0;
 }
 
-![](https://drawception.com/pub/panels/2012/8-22/88HC1sqh9T-8.png)
+![](http://previews.123rf.com/images/mayalain/mayalain1204/mayalain120400018/13174367-A-duck-is-listening-to-music-with-headphones-Stock-Photo.jpg)
